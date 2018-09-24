@@ -1,0 +1,254 @@
+
+Bibliography - Jonathan Sunderland
+==================================
+## ToDo ##
+- Infonomics| Doug Laney
+- Designing delivery| Jeff Sussna
+- Intertwingled| Peter Morville
+- Building evolutionary architectures|Neal Ford, Rebecca Parsons, Patrick Kua
+- The Mythical Man-month|Fred Brooks
+- Peopleware| Tom DeMarco
+
+---
+## Non-Fiction ##
+__Visualisation__
+- Visualize This| Nathan Yau
+- Data Points| Nathan Yau
+- Visualizing Data| Ben Fry
+- Envisioning Information| Edward R. Tufte
+- The Visual Display of Quantitative Information| Edward R. Tufte
+- The cognitive style of powerpoint: pitching out corrupts within| Edward R. Tufte
+- Seeing the Bigger Picture| Claire Cock-Starkey
+- Processing| Case Reas, Ben Fry
+- Learning Processing| Daniel Shiffman
+- Beautiful Visualization| Julie Steele & Noah Liinsky
+- Thew Book of Circles| Manuel Lima
+---
+__[Data] Culture | Leadership | Managing__
+- ReWork| Jason Fried, David Heinemeier Hansson
+- Data Fluency| Zach Gemignani, Chris Gemignani
+- Building the agile business through digital transformation| Neil Perkin, Peter Abraham
+- Crossing the Chasm| Geoffrey A Moore
+- The Toyota Way| Jeffrey K. Liker
+- Radical Candor, Kim Scott
+- The cognitive structure of emotions| Andrew Ortony, Gerald L. Clore, Allan Collins
+- The Dilbert Future| Scott Adams
+- Bad Science| Ben Goldacre
+- The Data Fuelled Business| Frank Wainwright
+- Fearless Change| Mary Lynn Manns, Linda Rising
+- The Belbin Guide to Succeeding at Work| Belbin
+- The Brain Book| Peter Russell
+- Bounce| Mathew Syed
+- The Chimp Paradox| Steve Peters
+- How to be a productivity ninja| Graham Allcott
+- Business Model Generation| Alexander Osterwalder, Yves Pigneur
+- Marketing Judo| John Barnes, Richard Richardson
+- The Choice Factory| Richard Shotton
+- Only the paranoid survive| Andrew S. Grove
+- The Innovators Dilema| Clayton M. Christensen
+- A peacock in the land of the penguins| BJ Gallagher Hateley, Warren H. Schmidt
+- Dealing with difficult people| Roy Lilley
+- Drive| Daniel H. Pink
+- To sell is human| Daniel H. Pink
+- Blink| Malcom Gladwell
+- The paradox of choice| Barry Schwartz
+- Think like a freak| Steven D. Levitt, Stephen J. Dubner
+- Thinking, Fast & Slow| Daniel Kahneman
+- A Passion for Excellence| Tom Peters
+- Managing Oneself| Peter F. Drucker
+- Mindgym wake up your mind|
+- Capitalism without Capital| Jonathan Haskel, Stian Westlake
+- Org Design for Design Orgs| Peter Merholz, Kristen Skinner
+- Customer Centricity| Peter Fader
+- The Tao of Coaching| Max Landsberg
+---
+__Analytics | Data Mining__
+- Making Sense of Data II| Glenn J. Myatt, Wayne P. Johnson
+- Data Science for Business| Foster Provost, Tom Fawcett
+- How to Measure Anything| Douglas W. Hubbard
+- Data Mining Techniques in CRM| Konstantinos Tsiptsis, Antonios Chorianopoulos
+- The Cartoon Guide to Statistics| Larry Gonick, Woollcott Smith
+- Statistics Done Wrong| Alex Reinhart
+- Creating a Data-Driven Enterprise with DataOps| Ashish Thusoo, Joydeep Sen Sarma
+- Designing Data-Intensive Applications| Martin Kleppmann
+- Agile Data Science| Russell Jurney
+- Data Science at the Command Line| Jeroen Janssens
+- The Analytics Reovolution| Bill Franks
+- Competing on Analytics| Thomas H. Davenport, Jeanne G. Harris
+- Mobility, Data Mining and Privacy| Fosca Giannotti, Dino Pedreschi
+- An introduction to Error Analysis| John R. Taylor
+- Ensemble Methods in Data Mining| Giovanni Seni, John Elder
+- Mastering machine learning with scikit-learn| Gavin Hackeling
+- Introduction to Data Mining| Pang-Ning Tan, Michael Steinbach, Vipin Kumar
+- Statsitics An introduction using R| Michael J. Crawley
+- A first course in statistical programming with R W. John Braun, Duncan J. Murdcoch
+- Data Analysis with Open Source Tools| Philipp K. Janert
+- R in a nutshell| Joseph Adler
+- The Signal and the Noise| Nate Silver
+- Statistics for Business Studies| Derek Gregory, Harold Ward
+- Python for Data Analysis| Wes McKinney
+- Mining the Social Web| Matthew A. Russell
+- Practical Text Mining| John Elder, Gary Miner, Bob Nisbet, Dursun Delen, Andrew Fast, Thomas Hill
+- The R Book| Michael J. Crawley
+---
+__Maths | Science | Philosophy__
+- Catastrophe Theory| Alexander Woodcock, Monte Davis
+- Gödel, Escher, Bach |Douglas R. Hofstadter
+- The Dancing Wu Li Masters| Gary Zukav
+- The (Fabulous) Fibonacci Numbers| Alfred S. Posamentier, Ingmar Lehmann
+- Thinking in Numbers| Daniel Tammet
+- Nothing| Jeremy Webb
+- The Bed of Procrustes| Nassim Nicholas Taleb
+- How to Solve It| G. Pólya
+- Four Colours Suffice| Robin Wilson
+- Complexity| Roger Lewin
+- Gödel's Proof| Ernest Nagel, James R. Newman
+- Flatland| Edwin A. Abbott
+- Statistics and Thermal Dynamics| Federick Relf
+- Electricity and Magnetism| Arthur F. Kip
+- An introduction to Quantum Physics| A.P. French, E.F. Taylor
+- Calculus| Thomas Finney
+- Chaos: Making a new science| James Gleick
+- In the Beginning| John Gribbin
+- Sapiens| Yuval Noah Harari
+- The Fundamentals of Physics| Halliday, Resnick
+---
+__Databases | [No-]SQL | Business Intelligence__
+- Seven Databases in Seven Weeks| Eric Redmond, Jim R. Wilson
+- Agile Database Techniques| Scott W. Ambler
+- SQL Antipatterns: Avoiding the Pitfalls of Database Programming| Bill Karwin
+- Getting started with Redshift| Stefan Bauer
+- Hadoop, the Definitive Guide| Tom White
+- Cassandra, the Definitive Guide| Eben Hewitt
+- The Data Warehouse Toolkit| Ralph Kimball, Margy Ross
+- Agile Data Warehouse Design: Collaborative Dimensional Modeling, from Whiteboard to Star Schema| Lawrence Corr, Jim Stagnitto
+- The Data Warehouse Lifecycle Toolkit| Ralph Kimball, Margy Ross, Warren Thornthwaite, Joy Mundy, Bob Becker
+- Mastering Data Warehouse Design| Claudia Imhoff, Nicholas Galemmo, Jonathan G. Geiger
+- Building the Operational Data Store| W. H. Inmon, Claudia Imhoff, Greg Battas
+
+__Architecture | Engineering | Programming | DevOps | Computer Science__
+- Simple architectures for complex enterprises| Roger Sessions
+- Python in a Nutshell| Alex Martelli, Anna Ravenscroft, Steve Holden
+- The Phoenix Project| Gene Kim, Kevin Behr, George Spafford
+- Webmaster in a nutshell| Stephen Spainbour, Valerie Quercia
+- Software Configuration Management Patterns| Stephen P. Berczuk, Brad Appleton
+- Enterprise Architecture| Pontus Johnson, Mathias Ekstedt
+- Enterprise Architecture as Strategy| Jeanne W. Ross, Peter Weill, David C. Robertson
+- Python Cookbook| Alex Martelli, Anna Ravenscroft, David Ascher
+- Refactoring to Patterns| Joshua Kerievsky
+- Instant freeze dried computer programming in BASIC| Jerald R. Brown
+- More BASIC computer games| David H. Ahl, Chris Cerf
+- TOGAF Version 9|The open group
+- Unix Power Tools| Jerry Peak, Tim O'Reilly, Mike Loukides
+- Unix and Linux system administrator handbook| Evi Nemeth, Garth Snyder, Trent R. Hein, Ben Whaley
+- An introduction to distributed and parallel computing| Joel M. Crichlow
+- Programming the 6502| Rodney Zaks
+- The C++ programming Language| Bjarne Stroustrup
+- Designing Object-Oriented Software| Rebecca Wirfs-Brock, Brian Wilkerson, Lauren Wiener
+- Object Solutions, managing the object-oriented project| Grady Booch
+- Object-oriented modelling and design| James Rumbaugh, Michael Blaha, William Premerlani, Fredereck Eddy, William Lorensen
+- The C Programming Language| Brian W. Kernighan, Dennis M. Ritchie
+- Algorithms in C| Robert Sedgewick
+- Computer Programs That Work!|J D Lee, G Beech, T D Lee
+- The Unix Programming Environment| Brian Kernighan, Rob Pike
+- Advanced Unix Programming| Marc J. Rochkind
+- Reliable Data Structures in C| Thomas Plum
+---
+__[Auto]Biography__
+- Not much of an Engineer| Sir Stanley Hooker
+- Surely you're joking Mr Feynman| Richard P. Feynman
+- Genius, Richard Feynman and modern physics| James Gleick
+- Kelly: More Than My Share of It All| Kelly Johnson
+---
+## Fiction ##
+__Sci-Fi | Cyber Punk | Speculative Fiction__
+- Burning Chrome| William Gibson
+- Mona Lisa Overdrive| William Gibson
+- Count Zero| William Gibson
+- Neuromancer| William Gibson
+- Pattern Recognition| William Gibson
+- Idoru| William Gibson
+- Spook Country| William Gibson
+- All Tomorrow's Parties| William Gibson
+- Zero History| William Gibson
+- Virtual Light| William Gibson
+- The Difference Engine| William Gibson, Bruce Sterling
+- The Artificial Kid|Bruce Sterling
+- A Good Old-fashioned Future| Bruce Sterling
+- GLobalhead| Bruce Sterling
+- Involution Ocean| Bruce Sterling
+- Islands In The Net| Bruce Sterling
+- Holy Fire| Bruce Sterling
+- Distraction| Bruce Sterling
+- Crystal Express| Bruce Sterling
+- Schismatrix Plus| Bruce Sterling
+- Heavy Weather| Bruce Sterling
+- Anathem| Neal Stephenson
+- Quicksilver| Neal Stephenson
+- The System of the World| Neal Stephenson
+- Confusion| Neal Stephenson
+- Interface| Neal Stephenson, Frederick George
+- Reamde| Neal Stephenson
+- Seven Eves| Neal Stephenson
+- Cryptonomicon| Neal Stephenson
+- The Diamond Age| Neal Stephenson
+- Snow Crash| Neal Stephenson
+- Metrophage| Richard Kadrey
+- The Sykaos Papers| E.P. Thomspson
+- The State of the Art|  Iain M. Banks
+- The Player of Games| Iain M. Banks
+- Use of Weapons| Iain M. Banks
+- The Business| Iain Banks
+- The Bridge| Iain Banks
+- Gorky Park| Martin Cruz Smith
+- Polar Star| Martin Cruz Smith
+- Red Square| Martin Cruz Smith
+- Synners| Pat Cadigan
+- Needle in the Groove| Jeff Noon
+- Pixel Juice| Jeff Noon
+- Pollen| Jeff Noon
+- Nymphomation| Jeff Noon
+- What you make it| Michael Marshall Smith
+- Only Forward| Michael Marshall Smith
+- One of Us| Michael Marshall Smith
+- Spares| Michael Marshall Smith
+- The vaccinator| Michael Marshall Smith
+- The Curios Case of Sidd Finch| George Plimpton
+- Dune| Frank Herbert
+- God Emperor of Dune| Frank Herbert
+- Heretics of Dune| Frank Herbert
+- Chapterhouse Dune| Frank Herbert
+- Dune Messiah| Frank Herbert
+- Children of Dune| Frank Herbert
+- Jerusalem Fire| R.M. Meluch
+- Sovereign| R.M. Meluch
+- The Pillars of Eternity| Barrington J. Bayley
+- Bright Lights, Big City| Jay McKinerey
+- Tool of the Trade| Joe Haldeman
+- In the Drift| Michael Swanwick
+- Vacuum Flowers| Michael Swanwick
+---
+__Other Fiction__
+- Catch-22| Joseph Heller
+- The Acid House| Irvine Welsh
+- American Psycho| Bret Easton Ellis
+- Unnatural Selection| Daniel Evan Weiss
+- American Dad| Tama Janowitz
+- Slaves of New York| Tama Janowitz
+- On the Road| Jack Kerouac
+- Brave New World| Aldous Huxley
+- Cannery Row| John Steinbeck
+- Tortilla Flat| John Steinbeck
+- The Pearl| John Steinbeck
+- Velocity| Kirstin McCloy
+- Jurassic Park| Michael Crichton
+- The Lost World| Michael Crichton
+- Congo| Michael Crichton
+- The Eight| Katherine Neville
+- A Calculated Risk| Katherine Neville
+- FlatterLand| Ian Stewart
+---
+## Other ##
+- The complete book of card games| Hamlyn
+- The Home Workshop
+- Tuning Imps| Willy Griffiths
