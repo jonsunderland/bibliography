@@ -27,6 +27,7 @@ __Visualisation__
 __[Data] Culture | Leadership | Managing__
 - ReWork| Jason Fried, David Heinemeier Hansson
 - Data Fluency| Zach Gemignani, Chris Gemignani
+- Crystal Clear: A Human-Powered Methodology for Small Teams| Alistair Cockburn
 - Building the agile business through digital transformation| Neil Perkin, Peter Abraham
 - Crossing the Chasm| Geoffrey A Moore
 - The Toyota Way| Jeffrey K. Liker
